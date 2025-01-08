@@ -1,1 +1,2 @@
-# amd-ubuntu 20-driver
+# backup amd-ubuntu 20-driver 
+# suppout to 8945hs cpu
