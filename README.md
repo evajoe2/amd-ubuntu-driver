@@ -1,1 +1,1 @@
-# amd-ubuntu-driver
+# amd-ubuntu 20-driver
